@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "iosfwd": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    },
+    "marscode.chatLanguage": "cn"
+}

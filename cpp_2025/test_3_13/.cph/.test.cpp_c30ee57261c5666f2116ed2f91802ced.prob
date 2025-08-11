@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\BaiduSyncdisk\\code\\cpp\\test_3_13\\test.cpp","tests":[{"id":1742187979567,"input":"7\n.......\n.##....\n.##....\n....##.\n..####.\n...###.\n.......","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\BaiduSyncdisk\\code\\cpp\\test_3_13\\test.cpp","group":"local","local":true}

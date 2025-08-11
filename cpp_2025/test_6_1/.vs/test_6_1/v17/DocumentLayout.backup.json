@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiduSyncdisk\\code\\cpp\\cpp_2025\\test_6_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{822B4360-5FD9-42E0-BCAF-F9DEF6582811}|test_6_1\\test_6_1.vcxproj|D:\\BaiduSyncdisk\\code\\cpp\\cpp_2025\\test_6_1\\test_6_1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{822B4360-5FD9-42E0-BCAF-F9DEF6582811}|test_6_1\\test_6_1.vcxproj|solutionrelative:test_6_1\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\BaiduSyncdisk\\code\\cpp\\cpp_2025\\test_6_1\\test_6_1\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "test_6_1\\\u6E90.cpp",
+              "ToolTip": "D:\\BaiduSyncdisk\\code\\cpp\\cpp_2025\\test_6_1\\test_6_1\\\u6E90.cpp*",
+              "RelativeToolTip": "test_6_1\\\u6E90.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T14:00:12.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
